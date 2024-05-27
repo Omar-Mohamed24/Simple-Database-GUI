@@ -1,0 +1,15 @@
+C:\vs2022\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\vs2022\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\vs2022\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\vs2022\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\vs2022\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\vs2022\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\vs2022\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\vs2022\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\vs2022\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\vs2022\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\vs2022\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_Book.resources
+C:\vs2022\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Search_Book.resources
+C:\vs2022\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DisplayBooks.resources
+C:\vs2022\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DisplayUser.resources
+C:\vs2022\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_User.resources
